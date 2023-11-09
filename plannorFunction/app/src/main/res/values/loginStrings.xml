@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_title1">Login to your account</string>
+    <string name="auth_title2">Create an account</string>
+    <string name="auth_name">Name:</string>
+    <string name="auth_email">Email:</string>
+    <string name="auth_passwd">Password:</string>
+    <string name="auth_login">Login</string>
+    <string name="auth_logout">Logout</string>
+    <string name="auth_forgot">Forgot Password?</string>
+    <string name="auth_register">Register</string>
+    <string name="auth_login_error">Login Error</string>
+    <string name="auth_login_error_msg">Please enter a valid email and password</string>
+    <string name="auth_login_error_msg2">"Invalid email or password"</string>
+    <string name="auth_login_error_msg3">"Invalid email"</string>
+    <string name="auth_login_error_msg4">"Invalid password"</string>
+    <string name="auth_login_error_msg5">"Account Type"</string>
+    <string name="auth_account_created">Account Created</string>
+    <string name="auth_account_type">Account Type</string>
+    <string name="auth_account_type1">Contractor</string>
+    <string name="auth_account_type2">Company</string>
+    <string name="auth_account_type_msg">Please select an account type</string>
+    <string name="auth_name_hint">Enter your name</string>
+    <string name="auth_email_hint">Enter your email</string>
+    <string name="auth_passwd_hint">Enter your password</string>
+    <string name="auth_passwd_hint2">Enter your password again</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="splash_title">Welcome to Plannor</string>
+    <string name="splash_desc_one">Plannor help contractors and companies manage their contract hours</string>
+    <string name="splash_desc_two">Automate contract hours and invoices</string>
+    <string name="splash_desc_three">Plan your work week for every project</string>
+    <string name="splash_btn_main">Continue -></string>
+</resources>
