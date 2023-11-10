@@ -1,6 +1,6 @@
 # CMP309-PlannorApp for mobile development module
 
-Watch (Plannor App Presentation video)[https://youtu.be/zKd2JNNiFXY] for context and overview of the project. 
+Watch [Plannor App Presentation video](https://youtu.be/zKd2JNNiFXY) for context and overview of the project. 
 
 The app allows the user to track their contracted hours and hourly rate. The app will then calculate the users pay for the week. I use  Android Studio, Kotlin, Jetpack Compose and Firebase to build the app.
 
